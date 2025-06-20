@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Y4N 👋
 
+<a href="https://app.daily.dev/duyanhy4n"><img src="https://api.daily.dev/devcards/v2/sO3RUXf7VpqZ7mLeNPaAH.png?type=wide&r=qzb" width="652" alt="duyanhy4n's Dev Card"/></a>
 <!--
-**duyanh-y4n/duyanh-y4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 📫 How to reach me: [email or social link]
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🛠️ Languages and Tools:
+[Badges or icons for your main technologies]
+
+## 📈 GitHub Stats
+![Your stats here, using a service like GitHub Readme Stats]
+
+## 📂 Pinned Projects
+- [Project 1](link) - Short description
+- [Project 2](link) - Short description
 -->
