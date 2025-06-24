@@ -2,14 +2,14 @@
 
 # Hi, I'm Y4N 👋
 - ⚡ I'm a full stack IoT software engineer
-- 🔭 I’m currently working on embedded system, linux, data engineering, dataops and devops
-- 🌱 Technology is my passion - 📰 daily technews keep me sane 
+- 🔭 I’m currently working on embedded system, linux, data engineering, DataOps and DevOps
+- 🌱 Technology is my passion - 📰 reading daily tech news keeps me happy 
 - ⭐ I'm interested in hardware design, open-source dev tools, homelabbing, etc.
 
 ## 🛠️ Languages and Tools:
 - 🚀 linux is my engine
 - 🛠️ vim is my way to code
-- 💬 I like programming in different languagues
+- 💬 I like to program in different languagues
 <!--
 [Badges or icons for your main technologies]
 -->
